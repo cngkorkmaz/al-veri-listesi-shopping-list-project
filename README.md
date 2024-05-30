@@ -1,6 +1,6 @@
 <h1>  alisveris-listesi-shopping-list-project </h1>
 
-- Bu repo ile çok kolay bir şekilse alışveriş listesi oluşturabilirsiniz. Listenizi çok kolay düzenleme ekleme, çıkarma ve tamamıyla listeyi temizleme yapabilirsiniz. (- With this repo you can create a shopping list very easily. You can easily edit, add, remove and clear your list.)
+- Bu repo ile çok kolay bir şekilde alışveriş listesi oluşturabilirsiniz. Listenizi çok kolay düzenleme ekleme, çıkarma ve tamamıyla listeyi temizleme yapabilirsiniz. (- With this repo you can create a shopping list very easily. You can easily edit, add, remove and clear your list.)
 
 
 # Özellikler
